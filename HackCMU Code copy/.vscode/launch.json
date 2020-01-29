@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunGUI",
+            "request": "launch",
+            "mainClass": "RunGUI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GUI",
+            "request": "launch",
+            "mainClass": "GUI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapPoints",
+            "request": "launch",
+            "mainClass": "MapPoints"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubImage",
+            "request": "launch",
+            "mainClass": "SubImage"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Subimage",
+            "request": "launch",
+            "mainClass": "Subimage"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargeImage",
+            "request": "launch",
+            "mainClass": "LargeImage"
+        }
+    ]
+}
